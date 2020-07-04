@@ -1,5 +1,5 @@
 %Written by Derya Yeliz ULUTAS
-%04.07.2020
+%03.07.2020
 
 %step 1.1 k-means
 rgbImage = imread('SunnyLake.bmp');
